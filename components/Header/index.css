@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.nav-menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.imgstyle {
+  height: 50px;
+  width: 50px;
+}
+.menu-icon {
+  padding-right: 20px;
+}
+.popup-container {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ height: 100vh;
+}
